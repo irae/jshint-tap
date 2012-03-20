@@ -1,0 +1,18 @@
+{
+  "author": "Irae Carvalho <irae@irae.pro.br>",
+  "name": "jshint-tap",
+  "description": "jshint-node compatible reporter to generate tap files (Test Anything Protocol)",
+  "version": "0.0.1",
+  "homepage": "https://github.com/irae/jshint-tap",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/irae/jshint-tap.git"
+  },
+  "engines": {
+    "node": "~0.6.2"
+  },
+  "dependencies": {
+      
+  },
+  "devDependencies": {}
+}
