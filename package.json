@@ -4,6 +4,7 @@
   "description": "jshint-node compatible reporter to generate tap files (Test Anything Protocol)",
   "version": "0.0.1",
   "homepage": "https://github.com/irae/jshint-tap",
+  "main": "jshint-tap.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/irae/jshint-tap.git"
